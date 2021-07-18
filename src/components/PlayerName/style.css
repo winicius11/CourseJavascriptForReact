@@ -1,3 +1,4 @@
-p{
-    font-family: 'Press Start 2P';
+.player-name{
+    color: var(--color-floral-white);
+    font-size: 1rem;
 }
