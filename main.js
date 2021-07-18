@@ -14,8 +14,3 @@ $root.insertAdjacentHTML('beforeend', $htmlPlayer1);
 $root.insertAdjacentHTML('beforeend', $htmlPlayer2);
 
 $root.insertAdjacentHTML('beforeend', $htmlBoardGame);
-// for (let i = 1; i <= 6; i++) {
-    // $root.insertAdjacentHTML('beforeend', $htmlCardGame);
-// }
-
-
