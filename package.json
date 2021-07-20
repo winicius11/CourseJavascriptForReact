@@ -7,5 +7,8 @@
   },
   "devDependencies": {
     "vite": "^2.4.2"
+  },
+  "dependencies": {
+    "gitmojis": "^3.4.0"
   }
 }
